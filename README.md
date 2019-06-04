@@ -12,3 +12,7 @@ A budgety calculator, with a couple of interactive things :)
 
 Чтобы открыть проект, достаточно его скачать, и открыть
 index.html.
+
+=======================================================
+
+by VanRed (Isagaya)
